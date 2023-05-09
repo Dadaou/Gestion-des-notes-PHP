@@ -1,0 +1,179 @@
+body
+{
+    color: white;
+    background-color: #88421D;
+    font-size:25px;
+    font-family: Times New Roman;
+    font-style: italic;
+    
+    
+}
+
+.table
+{
+    width : 420px;
+    border : 0px;
+    padding-top: 5px;
+    padding-bottom: 1px;
+    border-spacing: 20px;
+}
+
+.ajout
+    {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background:#003366;
+    color:white;
+    font-size:15px;
+    font-weight: normal; 
+    border:1 bold;
+    cursor: pointer;
+    border-radius:5px;
+    }
+.modif
+{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background: #E67E30;
+    color:white;
+    font-size:15px;
+    font-weight: normal; 
+    border:1 bold;
+    cursor: pointer;
+    border-radius:5px; 
+}
+
+.suppr
+{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background:red ;
+    color:white;
+    font-size:15px;
+    font-weight: normal; 
+    border:1 bold;
+    cursor: pointer;
+    border-radius:5px;
+}
+.affic
+{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background: #FFD700;
+    color:white;
+    font-size:15px;
+    font-weight: normal; 
+    border:1 bold;
+    cursor: pointer;
+    border-radius:5px;
+}
+.legend
+{
+    color: #000000;
+}
+.rech
+{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background: #CECECE;
+    color:white;
+    font-size:15px;
+    font-weight: normal; 
+    border:1 bold;
+    cursor: pointer;
+    border-radius:5px;
+}
+.search
+{
+  border-radius: 10px;
+     width : 260px;
+}
+.champ
+{
+    width: 60%;
+    text-align: center;
+    border: #000000 solid;
+    
+}
+.suivant
+{
+  
+  float:right;
+  font-size: 22px;
+
+}
+.prec
+{
+    font-size: 22px;
+}
+.tbl
+{
+  width : 420px;
+   border-spacing: 45px;
+}
+.rech1
+{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background:#1E7FCB ;
+    color:white;
+    font-size:15px;
+    font-weight: normal; 
+    border:1 bold;
+    cursor: pointer;
+    border-radius:5px;
+     width : 150px;
+
+}
+.search1
+{
+  border-radius: 15px;
+  width : 345px;
+}
+.table2
+{
+    width : 420px;
+    border : 0px;
+    padding-top: 5px;
+    padding-bottom: 1px;
+    border-spacing: 20px;
+    text-align: center;
+    margin: auto;
+    height: 420px;
+}
+.body
+{
+  background-color:#88421D; 
+}
+.rech2
+{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background:#88421D ;
+    color:#000000;
+    font-size:15px;
+    font-weight: normal; 
+    border:1 bold;
+    cursor: pointer;
+    border-radius:5px;
+    width : 400px;
+     
+
+}
+.table3
+{
+      text-align: center;
+      margin: auto;
+}
+.NOT
+{
+    text-align: right;
+     margin: auto;
+     width: 205px;
+     height: 0px;
+}
+
+
+
+
+
